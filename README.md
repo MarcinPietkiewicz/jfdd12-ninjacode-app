@@ -1,5 +1,10 @@
 # CashBake app - manage your finances
 
+## Demos:
+- Demo: http://www.ninjacode.jfdd12.is-academy.pl/
+- Game demo: http://www.ninjacode.jfdd12.is-academy.pl/game/index.html
+- App demo: http://app.ninjacode.jfdd12.is-academy.pl/history
+
 ## Main functionalities
 - Add new income or expenditure
 - Check your balance and income / expenditures in current month
